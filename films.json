@@ -1,0 +1,97 @@
+{   
+    "_id": {"$oid": "63918d332b4acb69a9ba55d5"},
+    "title": "Black Panther: Wakanda Forever", 
+    "duration": 161, 
+    "releaseDate": {"$date": "2022-11-10"}, 
+    "rating": "PG-13", 
+    "genres": ["Action", "Adventure", "Superhero"],
+    "actors":[{
+        "_id":{"$oid":"63918b4c2b4acb69a9ba55ce"},
+        "firstName": "Dinai",
+        "lastName": "Gurira"
+    },
+    {
+        "_id":{"$oid":"63918b4c2b4acb69a9ba55cf"},
+        "firstName": "Lupita",
+        "lastName": "Nyong'o"
+    },
+    {
+        "_id":{"$oid":"63918b4c2b4acb69a9ba55d0"},
+        "firstName": "Letitia",
+        "lastName": "Wright"
+    },
+    {   
+        "_id":{"$oid":"63918b4c2b4acb69a9ba55d1"},
+        "firstName": "Angela",
+        "lastName": "Bassett"
+    }]
+},
+{
+    "_id": {"$oid": "63919e162b4acb69a9ba55e6"},
+    "title": "No Time To Die", 
+    "duration": 163, 
+    "releaseDate": {"$date": "2021-10-8"}, 
+    "rating": "PG-13", 
+    "genres": ["Action", "Adventure", "Thriller"],
+    "actors": [{
+        "_id":{"$oid": "63919d302b4acb69a9ba55de"},
+        "firstName": "Rami",
+        "lastName": "Malek"
+    },
+    {
+        "_id":{"$oid": "63919d472b4acb69a9ba55e0"},
+        "firstName": "Daniel",
+        "lastName": "Craig"
+    },
+    {
+        "_id":{"$oid": "63919d582b4acb69a9ba55e2"},
+        "firstName": "Lashana",
+        "lastName": "Lynch"
+    },
+    {
+        "_id":{"$oid": "63919d6a2b4acb69a9ba55e4"},
+        "firstName": "Naomie",
+        "lastName": "Harris"
+    }]
+},
+{
+    "_id": {"$oid": "6391a2872b4acb69a9ba55f2"},
+    "title": "Akeelah and the Bee",
+    "duration": 112,
+    "releaseDate": {"$date": "2006-3-16"},
+    "rating": "PG",
+    "genres": [
+      "Family",
+      "Drama"
+    ],
+    "actors": [
+      {
+        "_id": {
+          "$oid": "6391a1912b4acb69a9ba55ec"
+        },
+        "firstName": "Keke",
+        "lastName": "Palmer"
+      },
+      {
+        "_id": {
+          "$oid": "63918b4c2b4acb69a9ba55d1"
+        },
+        "firstName": "Angela",
+        "lastName": "Bassett"
+      },
+      {
+        "_id": {
+          "$oid": "6391a1a12b4acb69a9ba55ee"
+        },
+        "firstName": "Laurence",
+        "lastName": "Fishburne"
+      },
+      {
+        "_id": {
+          "$oid": "6391a1b12b4acb69a9ba55f0"
+        },
+        "firstName": "Curtis",
+        "lastName": "Armstrong"
+      }
+    ]
+  }

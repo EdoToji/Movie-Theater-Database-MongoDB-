@@ -1,0 +1,159 @@
+[{  
+    "_id": {"$oid": "63918b4c2b4acb69a9ba55ce"},
+    "firstName": "Danai",
+    "lastName": "Gurira",
+    "birthday": {"$date": "1978-2-14"},
+    "IMDB": "https://www.imdb.com/name/nm1775091/",
+    "films": [
+        {
+            "filmId": {"$oid": "63918d332b4acb69a9ba55d5"},
+            "title": "Black Panther: Wakanda Forever",
+            "releaseDate": {"$date": "2022-11-10"}
+        }
+    ]
+}]
+[{  
+    "_id": {"$oid": "63918b4c2b4acb69a9ba55cf"},
+    "firstName": "Lupita",
+    "lastName": "Nyong'o",
+    "birthday": {"$date":"1983-3-1"},
+    "IMDB": "https://www.imdb.com/name/nm2143282/",
+    "films":[
+        {
+            "filmId": {"$oid": "63918d332b4acb69a9ba55d5"},
+            "title": "Black Panther: Wakanda Forever",
+            "releaseDate": {"$date": "2022-11-10"}
+        }
+    ]
+}]
+[{
+    "_id": {"$oid": "63918b4c2b4acb69a9ba55d0"},
+    "firstName": "Letitia",
+    "lastName": "Wright",
+    "birthday": {"$date":"1983-10-31"},
+    "IMDB": "https://www.imdb.com/name/nm4004793/",
+    "films":[
+        {
+            "filmId": {"$oid": "63918d332b4acb69a9ba55d5"},
+            "title": "Black Panther: Wakanda Forever",
+            "releaseDate": {"$date": "2022-11-10"}
+        }
+    ]
+}]
+[{
+    "_id": {"$oid": "63918b4c2b4acb69a9ba55d1"},
+    "firstName": "Angela",
+    "lastName": "Bassett",
+    "birthday": {"$date":"1958-8-16"},
+    "IMDB": "https://www.imdb.com/name/nm0000291/",
+    "films":[
+        {
+            "filmId": {"$oid": "63918d332b4acb69a9ba55d5"},
+            "title": "Black Panther: Wakanda Forever",
+            "releaseDate": {"$date": "2022-11-10"}
+        },
+        {
+            "filmId": {"$oid": "6391a2872b4acb69a9ba55f2"},
+            "title": "Akeelah and the Bee",
+            "releaseDate": {"$date": "2006-3-16"} 
+        }
+    ]
+}]
+[{
+    "_id": {"$oid": "63919d302b4acb69a9ba55de"},
+    "firstName": "Rami",
+    "lastName": "Malek",
+    "birthday": {"$date": "1981-5-12"},
+    "IMDB": "https://www.imdb.com/name/nm1785339/",
+    "films": [
+        {
+            "filmId": {"$oid": "63919e162b4acb69a9ba55e6"},
+            "title": "No Time To Die",
+            "releaseDate": {"$date": "2021-10-8"}
+        }
+    ]
+}]
+[{
+    "_id": {"$oid": "63919d472b4acb69a9ba55e0"},
+    "firstName": "Daniel",
+    "lastName": "Craig",
+    "birthday": {"$date": "1968-3-2"},
+    "IMDB": "https://www.imdb.com/name/nm0185819/",
+    "films": [
+        {
+            "filmId": {"$oid": "63919e162b4acb69a9ba55e6"},
+            "title": "No Time To Die",
+            "releaseDate": {"$date": "2021-10-8"}
+        }
+    ]
+}]
+[{
+    "_id": {"$oid": "63919d582b4acb69a9ba55e2"},
+    "firstName": "Lashana",
+    "lastName": "Lynch",
+    "birthday": {"$date": "1987-11-27"},
+    "IMDB": "https://www.imdb.com/name/nm2736476/",
+    "films": [
+        {
+            "filmId": {"$oid": "63919e162b4acb69a9ba55e6"},
+            "title": "No Time To Die",
+            "releaseDate": {"$date": "2021-10-8"}
+        }
+    ]
+}]
+[{
+    "_id": {"$oid": "63919d6a2b4acb69a9ba55e4"},
+    "firstName": "Naomi",
+    "lastName": "Harris",
+    "birthday": {"$date": "1976-9-6"},
+    "IMDB": "https://www.imdb.com/name/nm0365140/",
+    "films": [
+        {
+            "filmId": {"$oid": "63919e162b4acb69a9ba55e6"},
+            "title": "No Time To Die",
+            "releaseDate": {"$date": "2021-10-8"}
+        }
+    ]
+}]
+[{
+    "_id": {"$oid": "6391a1912b4acb69a9ba55ec"},
+    "firstName": "Keke",
+    "lastName": "Palmer",
+    "birthday": {"$date":"1993-8-26"},
+    "IMDB": "https://www.imdb.com/name/nm1551130/",
+    "films":[
+        {
+            "filmId": {"$oid": "6391a2872b4acb69a9ba55f2"},
+            "title": "Akeelah and the Bee",
+            "releaseDate": {"$date": "2006-3-16"}
+        }
+    ]
+}]
+[{
+    "_id": {"$oid": "6391a1a12b4acb69a9ba55ee"},
+    "firstName": "Laurence",
+    "lastName": "Fishburne",
+    "birthday": {"$date":"1961-7-30"},
+    "IMDB": "https://www.imdb.com/name/nm0000401/",
+    "films":[
+        {
+            "filmId": {"$oid": "6391a2872b4acb69a9ba55f2"},
+            "title": "Akeelah and the Bee",
+            "releaseDate": {"$date": "2006-3-16"}
+        }
+    ]
+}]
+[{
+    "_id": {"$oid": "6391a1b12b4acb69a9ba55f0"},
+    "firstName": "Curtis",
+    "lastName": "Armstrong",
+    "birthday": {"$date":"1953-11-27"},
+    "IMDB": "https://www.imdb.com/name/nm0035664/",
+    "films":[
+        {
+            "filmId": {"$oid": "6391a2872b4acb69a9ba55f2"},
+            "title": "Akeelah and the Bee",
+            "releaseDate": {"$date": "2006-3-16"}
+        }
+    ]
+}]

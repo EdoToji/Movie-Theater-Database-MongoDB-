@@ -1,0 +1,50 @@
+{
+    "$jsonSchema": {
+        "title": "actor",
+        "description": "An actor who star in a film",
+        "bsonType": "object",
+        "required": [
+            "firstName",
+            "lastName",
+            "birthday",
+            "IMDB",
+            "films"
+        ],
+        "properties": {
+            "firstName": {
+                "bsonType": "string"
+            },
+            "lastName": {
+                "bsonType": "string"
+            },
+            "birthday": {
+                "bsonType": "date"
+            },
+            "IMDB": {
+                "bsonType": "string"
+            },
+            "films": {
+                "bsonType": "array",
+                "items": {
+                    "bsonType": "object",
+                    "required": [
+                        "filmId",
+                        "title",
+                        "releaseDate"
+                    ],
+                    "properties": {
+                        "filmId":{
+                            "bsonType": "objectId"
+                        },
+                        "title": {
+                            "bsonType": "string"
+                        },
+                        "releaseDate": {
+                            "bsonType": "date"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

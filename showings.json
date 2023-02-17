@@ -1,0 +1,41 @@
+[{
+    "theaterId": {"$oid": "638b18b92b4acb69a9ba5559"},
+    "filmId": {"$oid": "63918d332b4acb69a9ba55d5"},
+    "filmTitle": "Black Panther: Wakanda Forever",
+    "showTime": {"$date": "2022-11-10T15:45:00z"},
+    "format": "Standard",
+    "tickets": [
+        {
+            "_id": {"$oid": "<ObjectId()>"},
+            "price": 18,
+            "seatNumber": "Seat 1"
+        }
+    ]
+}]
+[{
+    "theaterId": {"$oid": "638b18b92b4acb69a9ba5559"},
+    "filmId": {"$oid": "63918d332b4acb69a9ba55d5"},
+    "filmTitle": "Black Panther: Wakanda Forever",
+    "showTime": {"$date": "2022-11-10T19:00:00z"},
+    "format": "IMAX",
+    "tickets" : [
+        {
+            "_id": {"$oid": "<ObjectId()>"},
+            "price": 22,
+            "seatNumber": "Seat 1"
+        },
+        {
+            "_id": {"$oid": "<ObjectId()>"},
+            "price": 15,
+            "seatNumber": "Seat 5"
+        }
+    ]
+}]
+[{
+    "theaterId": {"$oid": "638b18b92b4acb69a9ba5559"},
+    "filmId": {"$oid": "63918d332b4acb69a9ba55d5"},
+    "filmTitle": "Black Panther: Wakanda Forever",
+    "showTime": {"$date": "2022-11-12T13:00:00z"},
+    "format": "Standard",
+    "tickets": []
+}]
